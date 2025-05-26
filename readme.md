@@ -1,1 +1,2 @@
-# Binkeyit Full Stack MERN App
+# Binkeyit-Ecommerce-Grocery-App
+Binkeyit-Ecommerce Grocery Full Stack Application
